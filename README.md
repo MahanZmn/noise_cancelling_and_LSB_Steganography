@@ -61,6 +61,6 @@ Python 3 with Jupyter Notebook and the following libraries:
 - NumPy
 - SciPy
 - Matplotlib
-- Seaborn (optional; the notebook falls back to Matplotlib styling if unavailable)
+- Seaborn (optional. the notebook falls back to Matplotlib styling if unavailable)
 
 Open `Codes/Project.ipynb` in Jupyter and run the cells in order. The notebook uses relative paths, so run it from the `Codes/` directory or adjust the paths if running it elsewhere.
